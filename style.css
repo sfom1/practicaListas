@@ -8,3 +8,10 @@
  .letras {
      list-style: lower-latin;
  }
+
+.galeria img {
+    width: 80px;
+    height: 80px;
+    margin-right: 10px;
+    cursor: pointer;
+}
